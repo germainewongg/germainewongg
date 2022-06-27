@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a social science student turned aspiring software engineer. I've just completed a 9 week web-dev bootcamp at Le Wagon and I'm excited to begin my journey as a software engineer. 
+I'm a social science student turned aspiring software engineer. I've just completed a 9 week web-dev bootcamp at Le Wagon and I'm excited to begin my journey into tech. 
 
 - 🔭 I’m currently working on adding additional features to my final project CHUM, a travel itinerary site. (https://github.com/germainewongg/CHUM)
 - 🌱 I’m currently learning React and Java.
