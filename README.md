@@ -19,6 +19,7 @@ I'm a social science student turned aspiring software engineer. I've just comple
 
 - 🔭 I’m currently working on adding additional features to my final project CHUM, a travel itinerary site. (https://github.com/germainewongg/CHUM)
 - 🌱 I’m currently learning React and Java.
+- 🧪 I'm currently trying to incorporate TDD into my applications. 
 - 🤔 I’m looking for good mentorship and guidance as a software engineer. 
 - 📫 How to reach me: https://www.linkedin.com/in/germainewongg/
 - 😄 Pronouns: She/her
