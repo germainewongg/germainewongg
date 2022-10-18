@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a social science student turned aspiring software engineer. I've just completed a 9 week web-dev bootcamp at Le Wagon and I'm excited to begin my journey into tech. 
+I'm a social science student turned software engineer trainee at foodpanda currently learning Golang. 
 
-- 🔭 I’m currently working on adding additional features to my final project CHUM, a travel itinerary site. (https://github.com/germainewongg/CHUM)
-- 🌱 I’m currently learning React and Java.
+- 🌱 I’m currently learning React and Golang
 - 🧪 I'm currently trying to incorporate TDD into my applications. 
 - 🤔 I’m looking for good mentorship and guidance as a software engineer. 
 - 📫 How to reach me: https://www.linkedin.com/in/germainewongg/
