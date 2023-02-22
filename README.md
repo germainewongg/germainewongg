@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About Me
 I'm a social science student turned software engineer trainee at foodpanda currently learning Golang. 
 
-- 🌱 I’m currently learning React and Golang
+- 🌱 I’m currently learning more about microservices and cloud based applications.
 - 🧪 I'm currently trying to incorporate TDD into my applications. 
 - 🤔 I’m looking for good mentorship and guidance as a software engineer. 
 - 📫 How to reach me: https://www.linkedin.com/in/germainewongg/
@@ -35,7 +35,7 @@ In school, I took data oriented modules like introduction to AI, data management
 [![Germaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=germainewongg&countr_private=true&show_icons=true&theme=tokyonight)](https://github.com/germainewongg/github-readme-stats)
 
 ## Technologies I've worked with
-[![My Skills](https://skillicons.dev/icons?i=go,rails,py,r,sql,html,css,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,rails,py,r,mysql,html,css,js,react)](https://skillicons.dev)
 
 
 
