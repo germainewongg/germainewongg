@@ -35,7 +35,7 @@ In school, I took data oriented modules like introduction to AI, data management
 [![Germaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=germainewongg&countr_private=true&show_icons=true&theme=tokyonight)](https://github.com/germainewongg/github-readme-stats)
 
 ## Technologies I've worked with
-[![My Skills](https://skillicons.dev/icons?i=go,rails,py,r,html,css,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,rails,py,r,sql,html,css,js,react)](https://skillicons.dev)
 
 
 
