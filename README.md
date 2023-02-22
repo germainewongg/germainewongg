@@ -31,6 +31,9 @@ Writing code is an art form. I love how there are multiple solutions to a proble
 #### Web dev 🕸
 In school, I took data oriented modules like introduction to AI, data management and social analytics. I enjoyed all of these modules immensely, and can proudly say that I’ve walked away with some data analytics skills. Instead of focusing solely on data, I took modules like web development (PHP) and data management (SQL). I realised that software development was something that I really enjoyed, and something I could see myself doing in the long run.Fast foward to today, I'm a backend developer trainee at foodpanda, and the journey so far has been nothing short of exciting. 
 
+### My github Stats
+[![Germaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=germainewongg)](https://github.com/germainewongg/github-readme-stats)
+
 ## Technologies I've worked with
 [![My Skills](https://skillicons.dev/icons?i=go,rails,py,r,html,css,js,react)](https://skillicons.dev)
 
