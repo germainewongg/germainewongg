@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: You can often find me reading a good book or listening to music. I'm very bribable with a nice cup of tea ☕️
 - 🔉Favourite tiktok sound (My personal motto): ["I AM A WOMAN IN STEM. BUNSEN BURNER"](https://youtube.com/shorts/NIemphceX8U?feature=share)
 
-### My github Stats
-[![Germaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=germainewongg&countr_private=true&show_icons=true&theme=tokyonight)](https://github.com/germainewongg/github-readme-stats)
 
 ## Technologies I've worked with
 [![My Skills](https://skillicons.dev/icons?i=go,rails,py,r,mysql,html,css,js,react)](https://skillicons.dev)
