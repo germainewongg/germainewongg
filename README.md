@@ -13,20 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Technologies I've worked with
+[![My Skills](https://skillicons.dev/icons?i=go,rails,py,r,mysql,html,css,js,react)](https://skillicons.dev)
+
 -->
 
 
 - 🌱 I’m currently learning more about microservices and cloud based applications.
-- 🧪 I'm currently trying to incorporate TDD into my applications. 
-- 🤔 I’m looking for good mentorship and guidance as a software engineer. 
 - 📫 How to reach me: https://www.linkedin.com/in/germainewongg/
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: You can often find me reading a good book or listening to music. I'm very bribable with a nice cup of tea ☕️
-- 🔉Favourite tiktok sound (My personal motto): ["I AM A WOMAN IN STEM. BUNSEN BURNER"](https://youtube.com/shorts/NIemphceX8U?feature=share)
-
-
-## Technologies I've worked with
-[![My Skills](https://skillicons.dev/icons?i=go,rails,py,r,mysql,html,css,js,react)](https://skillicons.dev)
 
 
 
